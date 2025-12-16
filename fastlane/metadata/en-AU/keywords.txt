@@ -1,1 +1,1 @@
-entertaiment, mood, helper, tips, cards
+game, inventory, organize, backpack, hero, path, 3, merchant
