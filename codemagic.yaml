@@ -10,8 +10,8 @@ workflows:
         # тут мають лежати APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_P8, APPLE_EMAIL
         - appstore-connect
       vars:
-        IOS_BUNDLE_ID: com.nazarovaproj.app
-        APP_NAME: Mystic Draw
+        IOS_BUNDLE_ID: com.misiuraaproj.app
+        APP_NAME: Forest Dungeon
 
     scripts:
       - name: Print working dir & contents
